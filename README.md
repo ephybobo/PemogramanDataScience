@@ -1,0 +1,2 @@
+# PemogramanDataScience
+Pemograman Foundation Data Science merupakan pembelajaran yang dilaksanakan oleh Skill Academy by Ruangguru. Terdapat dua bahasa pemograman yang diajarkan yaitu R Language dan bahasa Phyton. Dari pembelajaran tersebut akan ada tugas assigment untuk pengembangan diri yang mana saya sudah mengerjakan tugas tersebut dengan kedua bahasa pemograman yang diajarkan, karena tugas assigment tersebut tidak dikumpulkan maka saya akan mengumpulkan tugasnya disini.
